@@ -1,6 +1,6 @@
 # THUSS
 Tsinghua University Satellite Simulator Software Implementation
-Part of the THUSS Programme
+##Part of the THUSS Programme
 
 This is an international programme launched by a team of undergraduates of Tsinghua University, which features on the development of miniaturized physical simulation platforms for satellites in space. The programme was launched on December 2014, driven by the interest of Prof. Zhong Hong (George) Zhu from York University for finding such satellite simulator platforms small in size. We developed a prototype of the machine on April 2015 under the guidance of Mr. Hongxiang Yao, PhD. student of Tsinghua University, who has previous experiences of building such systems but is much larger in size and meavier in weight. In the following months we mianly concentrated on refining the prototype, designing electronic interfaces, optimizing installation positions of payloads and configuring control softwares, which are mainly done by we undergraduates.
 
